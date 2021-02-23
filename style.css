@@ -1,0 +1,106 @@
+.navbar {
+    text-align: center;
+    background-color: rgb(41, 38, 38);
+    height: 34px;
+    padding-top: 12px;
+}
+
+.nav:hover {
+    color: white;
+}
+
+.nav {
+    display: inline;
+    margin-right: 60px;
+    text-decoration: none;
+    color: rgb(175, 175, 175);
+}
+
+.sec {
+    height: 34px;
+    padding-top: 12px;
+    text-align: center;
+    background-color: rgb(74, 96, 197);
+}
+
+.s {
+    color: white;
+    text-decoration: none;
+}
+
+.s:hover {
+    text-decoration: underline;
+}
+
+.third {
+    text-align: center;
+    background-color: white;
+}
+
+.th {
+    color: rgb(74, 96, 197);
+    text-decoration: none;
+}
+
+.th:hover {
+    text-decoration: underline;
+}
+
+.fourthdiv {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.fifthdiv {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+.sixthdiv {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.sevendiv {
+    text-align: center;
+    width: 100%;
+    background-color: white;
+}
+
+.pp {
+    display: inline;
+}
+
+.para {
+    width: 60%;
+    margin: auto;
+}
+
+.p {
+    color: rgb(121, 112, 112);
+}
+
+
+.tab{
+    width: 100%;
+}
+
+.tableee{
+    width: 20%;
+    display: inline;
+    background-color: green;
+}
+
+table{
+   
+    border-spacing: 50px 10px;
+}
+
+.tabdetails{
+    text-decoration: none;
+    color: rgb(122, 117, 117);
+}
+
